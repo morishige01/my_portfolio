@@ -300,7 +300,7 @@ html, body{
 .sub_title p{
 	display: inline-block;
 	position: relative;
-	color: white;
+	color: red;
  	text-decoration: none;
 }
 
